@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron": "electron .",
-    "electron-pack": "electron-builder -c.extraMetadata.main=build/electron.js -w"
+    "electron-pack": "electron-builder -c.extraMetadata.main=build/electron.js -m"
   },
   "eslintConfig": {
     "extends": [
